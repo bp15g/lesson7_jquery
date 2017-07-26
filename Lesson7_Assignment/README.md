@@ -4,20 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 26,2017
 
 ### Student Name:  
-(First and Last Name)
-
+Brian Pearson
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+I used a bootstrap template to create then publish a brownie recipe with javascript
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bp15g.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Created a display function to view recipes and ingredients for a brownie
+2. Learned how to inspect DOM with javascript control panel
+3. Learned how to animate an element with javascript
 
